@@ -10,3 +10,5 @@
 
 [ДЗ3](https://github.com/pileyan/Python_2023_Master/blob/master/homework/hw_03.ipynb) - срок 1 ноября. Сдача в Anytask
 
+[ДЗ4](https://github.com/pileyan/Python_2023_Master/blob/master/homework/hw_04.ipynb) - срок 21 ноября. Сдача в Anytask
+
